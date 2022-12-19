@@ -1,0 +1,24 @@
+#main {
+  /* background-color: #aeaeae; */
+  /* height: 400px;
+    width: 650px; */
+}
+#main2 {
+  background-color: #eaeaea;
+  /* height: 400px;
+    width: 650px; */
+}
+
+.innerDiv {
+  /* height: 50px;
+    width: 50px; */
+  background-color: black;
+  position: absolute;
+  /* left: 0px;
+    top: 0px; */
+}
+
+/* .image { */
+/* height: 500px;
+    width: 500px; */
+/* } */
